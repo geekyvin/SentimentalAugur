@@ -32,7 +32,6 @@ targetCompatibility = 1.8
 dependencies {
     compile("org.springframework.boot:spring-boot-starter-web")
     compile("org.springframework.boot:spring-boot-starter-actuator")
-    compile("org.springframework.boot:spring-boot-starter-data-mongodb")
 
     compile group: 'org.springframework.security', name: 'spring-security-web', version: '5.0.0.RELEASE'
     compile group: 'org.springframework.security', name: 'spring-security-config', version: '5.0.0.RELEASE'
