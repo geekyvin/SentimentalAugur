@@ -1,3 +1,10 @@
+#Latest Update
+
+This project is being split into three micro-services,
+- Angular based UI project
+- A NodeJS based API that interacts with Augur
+- A Java based microservice for sentiment analysis
+
 # SentimentalAugur
 This is a Prototype of an application that matches the sentimental analysis on twitter of topics that are bet on Augur
 
