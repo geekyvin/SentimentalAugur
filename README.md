@@ -1,8 +1,8 @@
 # Latest Update
 
 This project is being split into three micro-services,
-- Angular based UI project
-- A NodeJS based API that interacts with Augur
+- [Angular based UI project](https://github.com/geekyvin/SentimentalAugurUI)
+- [A NodeJS based API that interacts with Augur](https://github.com/geekyvin/SentimentalAugurAPI)
 - A Java based microservice for sentiment analysis
 
 The links the repos will be provided soon
